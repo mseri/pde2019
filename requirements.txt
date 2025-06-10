@@ -56,7 +56,7 @@ python-dateutil==2.8.0
 pytz==2019.1
 pyzmq==17.1.2
 qtconsole==4.4.3
-requests==2.32.0
+requests==2.32.4
 scipy==1.10.0
 seaborn==0.9.0
 Send2Trash==1.5.0
